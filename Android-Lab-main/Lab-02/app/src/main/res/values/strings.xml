@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">European Club Football</string>
+    <string name="btnLabel">Find Club</string>
+    <string name="defaultText">No option selected ..</string>
+    <string-array name="ClubStringArray">
+        <item>La-Liga</item>
+        <item>English Premier League</item>
+        <item>Bundesliga</item>
+        <item>Serie A</item>
+    </string-array>
+</resources>
