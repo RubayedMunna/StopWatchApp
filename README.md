@@ -60,7 +60,7 @@ We welcome contributions to enhance the functionality and design of the Stopwatc
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/RubayedMunna"><img src="[[images/contributor1.png](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/Rubayed.jpg)](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/Rubayed.jpg)" width="100px;" alt=""/><br /><sub><b>Rubayed All Islam</b></sub></a><br />Creator</td>
+    <td align="center"><a href="https://github.com/RubayedMunna"><img src="[https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/Rubayed.jpg](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/Rubayed.jpg)](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/Rubayed.jpg)" width="100px;" alt=""/><br /><sub><b>Rubayed All Islam</b></sub></a><br />Creator</td>
     
 </table>
 
