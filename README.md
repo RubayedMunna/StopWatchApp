@@ -11,7 +11,11 @@ A simple stopwatch application built using Java in Android Studio. The app allow
 
 ## Screenshots
 
-![Stopwatch Screenshot](images/stopwatch_screenshot.png)
+![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_1.jpeg)
+![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_2.jpeg)
+![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_3.jpeg)
+![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_4.jpeg)
+![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_5.jpeg)
 
 ## Prerequisites
 
