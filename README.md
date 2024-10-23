@@ -11,11 +11,13 @@ A simple stopwatch application built using Java in Android Studio. The app allow
 
 ## Screenshots
 
-![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_1.jpeg)
-![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_2.jpeg)
-![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_3.jpeg)
-![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_4.jpeg)
-![Stopwatch Screenshot](https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_5.jpeg)
+<p align="center">
+  <img src="https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_1.jpeg" alt="Stopwatch Screenshot" width="300"/>
+  <img src="https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_2.jpeg" alt="Stopwatch Screenshot" width="300"/>
+  <img src="https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_3.jpeg" alt="Stopwatch Screenshot" width="300"/>
+  <img src="https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_4.jpeg" alt="Stopwatch Screenshot" width="300"/>
+  <img src="https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/SS_5.jpeg" alt="Stopwatch Screenshot" width="600"/>
+</p>
 
 ## Prerequisites
 
@@ -64,7 +66,7 @@ We welcome contributions to enhance the functionality and design of the Stopwatc
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/RubayedMunna"><img src="https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/Rubayed.jpg" width="100px;" alt=""/><br /><sub><b>Rubayed All Islam</b></sub></a><br />Creator</td>
+    <td align="center"><a href="https://github.com/RubayedMunna"><img src="https://github.com/RubayedMunna/StopWatchApp/blob/main/resources/Rubayed.jpg" width="300px;" alt=""/><br /><sub><b>Rubayed All Islam</b></sub></a><br />Creator</td>
     
 </table>
 
